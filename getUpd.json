@@ -1,0 +1,32 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 35956723,
+      "message": {
+        "message_id": 57,
+        "from": {
+          "id": 756769947,
+          "is_bot": false,
+          "first_name": "curry",
+          "last_name": "st"
+        },
+        "chat": {
+          "id": 756769947,
+          "first_name": "curry",
+          "last_name": "st",
+          "type": "private"
+        },
+        "date": 1544133003,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    }
+  ]
+}
